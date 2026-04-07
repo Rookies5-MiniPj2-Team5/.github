@@ -8,7 +8,8 @@ FullCount는 같은 팀을 응원하는 팬들이 경기 일정에 맞춰 직관
 &nbsp;
 ## ✨ Main Feature
 ### 1. KBO 경기 정보 및 실시간 경기 조회
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3fc33358-4abc-4ddf-a34d-ede1ee23d824" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b20b91f3-1c1a-4f1a-a44d-3177ebf97409" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a4f8490c-3a7d-4a2b-9559-30d5d5c810a7" />
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f44685d0-7e7e-4969-a708-0dfb71b14b9f" />
 
 - 당일 경기 및 라이브 경기 현황 조회, 실시간 라이브 채팅
@@ -29,7 +30,7 @@ FullCount는 같은 팀을 응원하는 팬들이 경기 일정에 맞춰 직관
 
 &nbsp;
 ### 3. 직관 메이트 및 크루 모집
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/79bca7b4-f569-4480-9253-9b9420330e7c" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/caa7a281-eebc-4065-800d-4dba9bb2b996" />
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/9fc5e1f0-83c1-41a9-ab1e-d439eb22c3e6" />
 <img width="800" alt="image 2026-04-07 140322" src="https://github.com/user-attachments/assets/ef499b73-46dc-4ed7-9228-0732699d42cb" />
 
